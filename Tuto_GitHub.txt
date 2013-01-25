@@ -1,0 +1,13 @@
+GitHub 
+
+- placer les fichiers dans le dossier ~/git 
+
+Dans le terminal : 
+
+- faire cd ~/git
+- faire git add nomdufichier.extension
+- faire git commit -m "description Commit"
+- (si première fois) faire git remote add origin 	
+  https://github.com/user/lasource.git
+- faire git push -u origin master 
+- entrez les identifiants
